@@ -14,4 +14,5 @@ a = int(input("Desde: "))
 b = int(input("Hasta: "))
 for q in range(a, b+1):
     if primo(q):
+        
         print ("Numero primo: ",q)
