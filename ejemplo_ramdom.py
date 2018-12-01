@@ -3,3 +3,5 @@
 
 from ramdom import *
 n = int(input("Imgrese la cantidad de lanzar: "))
+
+###
