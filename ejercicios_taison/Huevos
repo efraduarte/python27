@@ -1,0 +1,5 @@
+#Huevos
+Precio = 79
+CantidadBotella = 32
+ ValorBotella = CantidadBotella * Precio
+ 
