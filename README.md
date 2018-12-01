@@ -8,4 +8,9 @@ Pasos para subir a Git
 
 # git commit -a 
 
-# git push t
+# git push
+
+
+Pasos para update git local desde GITHUB
+
+# git pull
